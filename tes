@@ -1,0 +1,99 @@
+PERAN KEAMANAN INTERNET DALAM PERSEPSI CYBER SECRUITY DENGAN LEARNING MANAGEMENT SYSTEM SEBAGAI STUDI KASUS
+
+ 
+
+Oleh:
+I GUSTI NGURAH AGUG CANDRA WIJAYA
+NIM: 2205551092
+
+
+
+
+
+
+PROGRAM STUDI TEKNOLOGI INFORMASI
+FAKULTAS TEKNIK
+UNIVERSITAS UDAYANA
+ABSTRAK
+Paper ini bertujuan untuk mengeksplorasi peran kesadaran keamanan Internet sebagai variabel moderasi pada persepsi keamanan cyber, dengan fokus pada Sistem Manajemen Pembelajaran (Learning Management System/LMS) sebagai studi kasus. Penelitian tersebut dilakukan untuk memahami sejauh mana kesadaran akan keamanan Internet memengaruhi cara mahasiswa perguruan tinggi keamanan dalam penggunaan LMS. Pendekatan kuantitatif digunakan dengan mengumpulkan data melalui survei kepada mahasiswa perguruan tinggi. Hasilnya menunjukkan bahwa kesadaran akan keamanan Internet memiliki peran yang signifikan dalam memoderasi persepsi keamanan cyber mahasiswa terhadap penggunaan LMS. Penemuan ini memiliki implikasi penting dalam pengembangan kebijakan dan strategi untuk meningkatkan keamanan dalam penggunaan teknologi pembelajaran online, serta memberikan wawasan bagi lembaga pendidikan untuk meningkatkan kesadaran akan keamanan Internet di kalangan mahasiswa.
+Kata Kunci: Keamanan Internet, Variabel Moderasi, Mahasiswa, LMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB I 
+PENDAHULUAN
+1.1	Latar Belakang
+Perkembangan teknologi pembelajaran daring telah diterapkan secara luas oleh negara-negara di seluruh dunia, dengan Sistem Manajemen Pembelajaran (Learning Management System/LMS) menjadi salah satu teknologi utama yang digunakan. Walaupun LMS telah menawarkan banyak keuntungan dalam hal administrasi pengajaran dan pembelajaran, kekhawatiran terkait keamanan internet menjadi isu penting yang perlu diatasi. Banyak pengguna, termasuk mahasiswa perguruan tinggi, memiliki keraguan terkait privasi, kepercayaan terhadap internet, dan risiko cyber. Oleh karena itu, paper ini dibuat bertujuan untuk menginvestigasi dampak faktor-faktor tersebut terhadap sikap mahasiswa terhadap penggunaan LMS, serta sejauh mana kesadaran keamanan internet dapat memoderasi hubungan antara faktor-faktor tersebut.
+
+1.2	Rumusan Masalah
+Terkait latar belakang tersebut, menghasilkan suatu permasalahan yang akan dibahas pada paper ini, berikut merupakan rumusan permasalahan yang tersedia antara lain:
+1.2.1	Apa yang menyebabkan mahasiswa meragukan privasi keamanan LMS?
+1.2.2	Berapa Tingkat kepercayaan mahasiswa terhadap LMS?
+
+1.3	Tujuan Pembahasan Masalah
+Berdasarkan rumusan masalah yang telah dibuat, berikut merupakan pemaparan tujuan dibuatnya paper ini:
+1.3.1	Dapat menciptakan LMS dengan privasi yang terjaga dengan baik
+1.3.2	Dapat memahami Tingkat kepercayaan mahasiswa terhadap LMS
+1.3.3	Dapat meninangkatkan Tingkat kepercayaan privasi Mahasiswa terhadap LMS
+
+
+
+
+
+
+
+BAB II
+PEMBAHASAN
+2.1	Konseptualisasi Kerangka Kerja dan Hipotesis
+Dalam penelitian ini terdapat beberapa faktor utama yang mempengaruhi sikap mahasiswa terhadap penggunaan Sistem Manajemen Pembelajaran (Learning Management System/LMS).    
+2.1.1	Privasi
+Mempertimbangkan kekhawatiran pengguna terhadap privasi informasi mereka di lingkungan online. Hipotesisnya menyatakan bahwa semakin tinggi tingkat privasi yang dirasakan, semakin positif sikap mahasiswa terhadap penggunaan e-LMS. 
+2.1.2	Trust In The Institution
+kepercayaan terhadap internet dan institusi (universitas) juga dianggap penting dalam membentuk sikap terhadap penggunaan e-LMS. Tingkat kepercayaan yang lebih tinggi diharapkan berkorelasi positif dengan sikap pengguna terhadap penggunaan LMS. 
+2.1.3	Perceived Cyber Risk
+faktor risiko siber mencerminkan ketidakpastian pengguna terhadap potensi risiko dalam menggunakan LMS. Hipotesis menyatakan bahwa semakin tinggi persepsi risiko siber, semakin negatif sikap terhadap penggunaan LMS. 
+2.1.4	Internet Security Awareness
+kesadaran akan keamanan internet dianggap sebagai variabel moderasi yang mempengaruhi hubungan antara faktor-faktor sebelumnya dengan sikap terhadap penggunaan LMS. 
+Penelitian ini menggunakan pendekatan kuantitatif dengan menyebarkan kuesioner daring kepada mahasiswa sarjana dari berbagai universitas negeri di Kerajaan Arab Saudi. Dari 298 tanggapan yang diterima, 261 dianggap valid untuk disertakan dalam analisis 
+
+2.2	Analisis Data
+Pada tahap analisis data, reliabilitas model dievaluasi menggunakan tiga metode umum: Alpha Cronbach, Komposit Reliabilitas, dan Variance Tertanam Rata-rata (AVE). Alpha Cronbach dan Komposit Reliabilitas digunakan untuk mengukur konsistensi internal tes dengan memeriksa sejauh mana indikator dalam skala mengukur faktor yang sama. Nilai di atas 0,7 dianggap memadai untuk kedua metode ini. Hasil analisis menunjukkan bahwa semua konstruk memenuhi standar kecuali Persepsi Privasi, yang mendekati ambang batas yang ditetapkan. Namun, hal ini tidak signifikan mempengaruhi validitas konstruk secara keseluruhan. Selain itu, faktor beban juga diperhitungkan untuk memperkuat validitas konstruk dengan mengukur seberapa baik setiap item dalam skala berkorelasi dengan konstruk yang diukur. Semua item dalam penelitian ini memenuhi standar yang ditetapkan. Untuk memastikan validitas konvergen konstruk, uji AVE digunakan untuk memeriksa apakah setiap konstruk menjelaskan lebih banyak variasi daripada konstruk lainnya. Semua konstruk dalam penelitian ini memenuhi standar yang ditetapkan untuk AVE. 
+
+2.3	Analisis Model Struktural dan Pengujian Hipotesis
+Pada tahap analisis model struktural dan pengujian hipotesis, penelitian menggunakan SmartPLS versi 3 yang menerapkan metode Partial Least Squares Structural Equation Modelling (PLS-SEM). Diagram menampilkan koefisien jalur antara variabel eksplanatori dan variabel dependen, yang menunjukkan hubungan antara variabel tersebut. Berdasarkan koefisien regresi standar ini, hipotesis yang diajukan dalam penelitian didukung, menunjukkan dampak yang signifikan dari variabel independen terhadap variabel dependen, yaitu sikap terhadap penggunaan LMS. Selain itu, penelitian juga menguji efek moderasi dari kesadaran keamanan internet terhadap persepsi privasi, kepercayaan terhadap internet, dan risiko siber terhadap sikap terhadap penggunaan LMS. Hasil analisis mendukung sebagian besar hipotesis yang diajukan, kecuali hipotesis yang mengenai moderasi dari kepercayaan terhadap institusi terhadap sikap terhadap penggunaan LMS.
+
+2.4	Hasil yang Didapat
+Hasil analisis menunjukkan bahwa faktor-faktor seperti persepsi privasi dan kepercayaan terhadap internet berkontribusi positif terhadap sikap penggunaan LMS, sementara risiko siber memberikan dampak negatif yang signifikan. Kesadaran akan keamanan internet juga memainkan peran penting sebagai moderator, di mana tingkat kesadaran yang tinggi akan memperkuat pengaruh faktor-faktor tersebut terhadap sikap penggunaan LMS. Implikasi dari penelitian ini adalah pentingnya memperhatikan kesadaran keamanan internet dalam meningkatkan penggunaan LMS di perguruan tinggi serta membangun kepercayaan terhadap sistem tersebut dengan memastikan keamanan dan kualitasnya.
+
+BAB III
+KESIMPULAN
+
+Faktor-faktor keamanan dan kepercayaan yang memengaruhi sikap mahasiswa perguruan tinggi dalam penggunaan LMS. Kedua, untuk memahami peran kesadaran keamanan Internet dalam memoderasi hubungan antara faktor-faktor keamanan dan kepercayaan tersebut dengan sikap. Delapan hipotesis diajukan berdasarkan model teoritis yang diuji secara empiris menggunakan partial least squares-based structural equation modelling (PLS-SEM). Studi ini mengadopsi pendekatan berbasis kuantitatif yang menggunakan kuesioner survei sebagai instrumen penelitian untuk pengumpulan data, yang menghasilkan 261 tanggapan dari mahasiswa perguruan tinggi. Hasilnya mengkonfirmasi 7 dari 8 hipotesis yang diajukan. PP, TII, TIU, dan PCR semua menunjukkan signifikansi dalam membentuk sikap mahasiswa terhadap penggunaan LMS. Hasil juga mengkonfirmasi peran yang cukup besar dari ISA dalam memoderasi sikap pembelajar. Hanya H7 yang tidak didukung oleh analisis di mana ISA tidak menunjukkan efek moderasi pada hubungan antara TIU dan ATT.
+Peneliti menyadari keterbatasan dari studi ini. Pertama, studi ini dilakukan hanya di Arab Saudi; oleh karena itu, hasilnya tidak dapat digeneralisasi ke konteks lain. Kedua, meskipun ukuran sampelnya cukup wajar, ukuran sampel yang lebih besar akan memberikan pemahaman yang lebih dalam tentang topik tersebut. Terakhir, studi ini tidak memasukkan variabel kontekstual lain yang penting (misalnya, tingkat pengalaman penggunaan Internet, tahun penggunaan LMS, dll.) dalam analisis yang mungkin memberikan wawasan dan penjelasan yang lebih jelas tentang persepsi keamanan siber pengguna. Untuk penelitian masa depan, studi ini dapat diperluas ke konteks geografis lain dengan ukuran sampel yang lebih besar untuk mendapatkan pemahaman yang lebih luas tentang topik tersebut. Penelitian masa depan juga dapat memberikan kontribusi dengan menambahkan variabel kontekstual penting lainnya ke dalam analisis yang tidak dimasukkan dalam studi ini.
+
+
+
+
+
+DAFTAR PUSTAKA
+Alfalah, A. (2023). The role of Internet security awareness as a moderating variable on cyber security perception: Learning management system as a case study. International Journal of Advanced and Applied Sciences, 10(4), 136–144. https://doi.org/10.21833/ijaas.2023.04.017
+
+
